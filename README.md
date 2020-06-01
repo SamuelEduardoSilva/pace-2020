@@ -1,6 +1,6 @@
 ## Treedepth PACE 2020 Submission
 
-This repository contains the solver submitted to the [PACE 2020](https://pacechallenge.org/2020/td/) Treedepth challenge. Our solver was developed at [UFF](http://www.uff.br/) in the our Parameterized Team.
+This repository contains the solver submitted to the [PACE 2020](https://pacechallenge.org/2020/td/) Heuristic Treedepth Challenge. Our solver was developed at [UFF](http://www.uff.br/) in the our Parameterized Team.
 
 To running our code, just clone the repository and build the program, as follows:
 
