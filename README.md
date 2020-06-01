@@ -6,10 +6,11 @@ To running our code, just clone the repository and build the program, as follows
 
 ```bash
 git clone https://github.com/SamuelEduardoSilva/pace-2020.git
-cd x.cpp
-g++ -o x x.cpp
+cd UffFptTeam.cpp
+g++ -o solver UffFptTeam.cpp
 ```
 There are a way to correctly invoke the program:
 
 ```bash
-./x < my_graph.gr 
+./solver < my_graph.gr 
+
