@@ -14,3 +14,5 @@ There are a way to correctly invoke the program:
 ```bash
 ./solver < my_graph.gr 
 
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3872029.svg)](https://doi.org/10.5281/zenodo.3872029)
