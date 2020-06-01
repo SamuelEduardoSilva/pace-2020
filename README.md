@@ -9,7 +9,7 @@ git clone https://github.com/SamuelEduardoSilva/pace-2020.git
 cd x.cpp
 g++ -o x x.cpp
 ```
-There are three ways to correctly invoke the program:
+There are a way to correctly invoke the program:
 
 ```bash
 ./x < my_graph.gr 
